@@ -1,2 +1,3 @@
-# SitTechFrenzyWebsite
-Our Internal Hackathon's Website
+### SIT TECH FRENZY
+
+A 24 Hour SIT's Internal Hackathon!
